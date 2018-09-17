@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"  i",
+		"iwi",
+		"i i"
+	],
+	"key": {
+		"i": {
+			"item": "minecraft:iron_ingot"
+		},
+		"w": {
+			"item": "minecraft:black_wool"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_horse_armor",
+		"count": 1
+	}
+}
