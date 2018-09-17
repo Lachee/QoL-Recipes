@@ -10,7 +10,7 @@ To install the data pack, go to your `world/datapacks` folder and paste the foll
 git clone https://github.com/NatoBoram/WesternTea-RecipesPack.git
 ```
 
-This way, if you want to update the data pack, all you need to do is `git pull` and you'll get the latest update.
+This way, if you want to update the data pack, all you need to do is `git pull` and you'll get the latest updates.
 
 ```bash
 git pull
