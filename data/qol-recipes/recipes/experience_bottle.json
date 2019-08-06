@@ -5,7 +5,7 @@
 			"item": "minecraft:emerald"
 		},
 		{
-			"item": "minecraft:potion{Potion:minecraft:water}"
+			"item": "minecraft:potion"
 		}
 	],
 	"result": {
