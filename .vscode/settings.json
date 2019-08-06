@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.mcmeta": "json"
+	},
+	"editor.formatOnSave": true
+}
