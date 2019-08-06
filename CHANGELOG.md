@@ -8,7 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/) and this 
 
 ### Added
 
+* Added `experience_bottle`.
+
 ### Changed
+
+* Changed `diamond_horse_armor`, `golden_horse_armor` and `iron_horse_armor` to mirror [Horse Armor](https://minecraft.gamepedia.com/Horse_Armor)'s new recipe.
+* Changed `saddle` for [this post](https://www.reddit.com/r/Minecraft/comments/cms6mu/).
 
 ### Deprecated
 

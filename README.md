@@ -1,4 +1,4 @@
-# WesternTea Recipes Pack
+# Quality of Life Recipes
 
 Adds quality of life recipes into the game.
 
@@ -7,7 +7,7 @@ Adds quality of life recipes into the game.
 To install the data pack, go to your `world/datapacks` folder and paste the following :
 
 ```bash
-git clone https://github.com/NatoBoram/WesternTea-RecipesPack.git
+git clone https://github.com/NatoBoram/QoL-Recipes.git
 ```
 
 This way, if you want to update the data pack, all you need to do is `git pull` and you'll get the latest updates.
@@ -20,28 +20,32 @@ git pull
 
 |           | `diamond_horse_armor` |           |
 | :-------: | :-------------------: | :-------: |
-|           |                       | `diamond` |
-| `diamond` | `blue_wool`           | `diamond` |
+| `diamond` |                       | `diamond` |
+| `diamond` | `diamond`             | `diamond` |
 | `diamond` |                       | `diamond` |
 
 |              | `golden_horse_armor` |              |
 | :----------: | :------------------: | :----------: |
-|              |                      | `gold_ingot` |
-| `gold_ingot` | `red_wool`           | `gold_ingot` |
+| `gold_ingot` |                      | `gold_ingot` |
+| `gold_ingot` | `gold_ingot`         | `gold_ingot` |
 | `gold_ingot` |                      | `gold_ingot` |
 
 |              | `iron_horse_armor` |              |
 | :----------: | :----------------: | :----------: |
-|              |                    | `iron_ingot` |
-| `iron_ingot` | `black_wool`       | `iron_ingot` |
+| `iron_ingot` |                    | `iron_ingot` |
+| `iron_ingot` | `iron_ingot`       | `iron_ingot` |
 | `iron_ingot` |                    | `iron_ingot` |
 
-|           | `name_tag` |        |
+|           | `experience_bottle` |          |
+| :-------: | :-----------------: | :------: |
+| `emerald` |                     | `potion` |
+
+|           | `name_tag` |          |
 | :-------: | :--------: | :------: |
 | `ink_sac` | `paper`    | `string` |
 
-|              | `saddle`  |              |
-| :----------: | :-------: | :----------: |
-| `leather`    | `leather` | `leather`    |
-| `string`     |           | `string`     |
-| `iron_ingot` |           | `iron_ingot` |
+|                 | `saddle`  |                 |
+| :-------------: | :-------: | :-------------: |
+| `leather`       | `leather` | `leather`       |
+| `leather`       | `leather` | `leather`       |
+| `tripwire_hook` | `string`  | `tripwire_hook` |
