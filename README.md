@@ -21,19 +21,19 @@ git pull
 |           | `diamond_horse_armor` |           |
 | :-------: | :-------------------: | :-------: |
 | `diamond` |                       | `diamond` |
-| `diamond` | `diamond`             | `diamond` |
+| `diamond` |       `diamond`       | `diamond` |
 | `diamond` |                       | `diamond` |
 
 |              | `golden_horse_armor` |              |
 | :----------: | :------------------: | :----------: |
 | `gold_ingot` |                      | `gold_ingot` |
-| `gold_ingot` | `gold_ingot`         | `gold_ingot` |
+| `gold_ingot` |     `gold_ingot`     | `gold_ingot` |
 | `gold_ingot` |                      | `gold_ingot` |
 
 |              | `iron_horse_armor` |              |
 | :----------: | :----------------: | :----------: |
 | `iron_ingot` |                    | `iron_ingot` |
-| `iron_ingot` | `iron_ingot`       | `iron_ingot` |
+| `iron_ingot` |    `iron_ingot`    | `iron_ingot` |
 | `iron_ingot` |                    | `iron_ingot` |
 
 |           | `experience_bottle` |          |
@@ -42,10 +42,10 @@ git pull
 
 |           | `name_tag` |          |
 | :-------: | :--------: | :------: |
-| `ink_sac` | `paper`    | `string` |
+| `ink_sac` |  `paper`   | `string` |
 
-|                 | `saddle`  |                 |
-| :-------------: | :-------: | :-------------: |
-| `leather`       | `leather` | `leather`       |
-| `leather`       | `leather` | `leather`       |
-| `tripwire_hook` | `string`  | `tripwire_hook` |
+|              |   `saddle`   |              |
+| :----------: | :----------: | :----------: |
+|  `leather`   |  `leather`   |  `leather`   |
+|  `leather`   | `iron_ingot` |  `leather`   |
+| `iron_ingot` |              | `iron_ingot` |
