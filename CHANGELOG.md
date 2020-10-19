@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/) and this 
 
 ### Added
 
+- Added `honeycomb`.
+- Added `prismarine_shard`.
+
 ### Changed
 
 ### Deprecated

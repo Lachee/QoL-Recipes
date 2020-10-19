@@ -49,3 +49,25 @@ git pull
 |  `leather`   |  `leather`   |  `leather`   |
 |  `leather`   | `iron_ingot` |  `leather`   |
 | `iron_ingot` |              | `iron_ingot` |
+
+### Uncraft
+
+These are for un-crafting blocks.
+
+|     |    `honeycomb`    |     |
+| :-: | :---------------: | :-: |
+|     |                   |     |
+|     | `honeycomb_block` |     |
+|     |                   |     |
+
+|     | `prismarine_shard` |     |
+| :-: | :----------------: | :-: |
+|     |                    |     |
+|     |    `prismarine`    |     |
+|     |                    |     |
+
+|     | `prismarine_shard`  |     |
+| :-: | :-----------------: | :-: |
+|     |                     |     |
+|     | `prismarine_bricks` |     |
+|     |                     |     |
