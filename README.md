@@ -7,7 +7,7 @@ Adds quality of life recipes into the game.
 To install the data pack, go to your `world/datapacks` folder and paste the following :
 
 ```bash
-git clone https://github.com/NatoBoram/QoL-Recipes.git
+git clone https://github.com/Lachee/QoL-Recipes.git
 ```
 
 This way, if you want to update the data pack, all you need to do is `git pull` and you'll get the latest updates.
